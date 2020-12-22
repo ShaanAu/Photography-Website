@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "https://festive-hoover-9ddfaf.netlify.app/"
 languageCode = "en-us"
 title = "Test"
 theme = "Test"
