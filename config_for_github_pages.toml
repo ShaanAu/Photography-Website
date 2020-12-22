@@ -80,7 +80,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     
     [params.footer.contact]
     hide = false # Set this to true if you don't want to have a contact form on your site
-    realEmail = "example@example.org"
+    realEmail = "test@hotmail.org"
     headline = "Get in touch"
     buttonText = "Send"
     resetText = "Reset"
