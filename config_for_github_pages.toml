@@ -1,8 +1,8 @@
 # Settings
-baseurl = "https://kc0bfv.github.io/autophugo/"
+baseurl = "https://festive-hoover-9ddfaf.netlify.app/"
 languageCode = "en-us"
 title = "Shanti Aucharagram"
-theme = "SHAN"
+theme = "autophugo"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
